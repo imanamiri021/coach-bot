@@ -1,9 +1,9 @@
 {
   "name": "coach-bot",
   "version": "1.0.0",
-  "description": "Telegram Coach Bot",
-  "main": "src/main.js",
+  "description": "Telegram Bot",
   "type": "module",
+  "main": "src/main.js",
   "dependencies": {
     "node-telegram-bot-api": "^0.64.0",
     "@google/generative-ai": "^0.1.0"
